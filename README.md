@@ -13,4 +13,5 @@ Developed Interactive Pricing Component And Implimented Dark/Light mode on it
  <br>
  
 
-    👉It was hoted at [codepen.io](https://codepen.io/babajankhanp/full/QWmKdLO)
+   It was hoted at 👉
+    [codepen.io](https://codepen.io/babajankhanp/full/QWmKdLO)
